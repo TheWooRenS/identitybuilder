@@ -1,4 +1,4 @@
-python3-customtkinter>=4.1.0
+customtkinter>=5.2.2
 os>=3.11
 random>=3.11
 json>=3.11
